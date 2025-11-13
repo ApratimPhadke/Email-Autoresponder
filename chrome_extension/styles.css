@@ -1,0 +1,25 @@
+/* Email Agent Gmail Extension Styles */
+
+.email-agent-badge {
+  display: inline-block;
+  padding: 2px 6px;
+  margin-left: 8px;
+  border-radius: 3px;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.email-agent-priority-high {
+  background-color: #fce4ec;
+  color: #c2185b;
+}
+
+.email-agent-priority-medium {
+  background-color: #fff3e0;
+  color: #ef6c00;
+}
+
+.email-agent-priority-low {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+}
